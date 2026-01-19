@@ -8,7 +8,7 @@ In Tamil Nadu, the southern most state of India on Jan 14 the holiday of Pongal 
 2 0010 - round petal
 3 0011 - pointed leaf
 4 0100 - line
-5 0101 - reserved
+5 0101 - spiral
 6 0110 - reserved
 7 0111 - reserved
 8 1000 - reserved
@@ -30,7 +30,8 @@ If 10 is entered, the symbol is outlined in white
 Then enter the pattern word as many times as desired The symbols will be spaced equally apart starting at 90 deg/12 o'clock then moving clockwise. If no pattern is entered, a single instance of the symbol will be placed. 
 If multiple symbols are on the same level they are evenly spaced out
 
+## Example 1
 
 
 
-
+```
