@@ -48,7 +48,7 @@ If multiple symbols are on the same level they are evenly spaced out
 ```
 
 ## Challenge
-*for the purposes of this challenge assume that there is no outline used*
+Create a rangoli similar to the image below using the instructions as follows starting from the inner most then going to the outer most element.
 1. yellow dot
 2. orange circle
 3. 16 blue pointed leaves
