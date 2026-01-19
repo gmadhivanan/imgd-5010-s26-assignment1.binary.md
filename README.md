@@ -34,7 +34,7 @@ If 10 is entered, the symbol is outlined in white. Color can be applied again to
 Then enter the pattern word as many times as desired The symbols will be spaced equally apart starting at 90 deg/12 o'clock then moving clockwise. If no pattern is entered, a single instance of the symbol will be placed. 
 If multiple symbols are on the same level they are evenly spaced out
 
-symbol color outline color offset pattern radialout
+*symbol color outline color offset pattern radialout*
 
 ## Example 1
 ![simple rangoli example](https://i.pinimg.com/736x/2c/45/46/2c454627104d642313a41a1664c8bf66.jpg)
