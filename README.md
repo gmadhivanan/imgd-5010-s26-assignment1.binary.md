@@ -46,3 +46,6 @@ If multiple symbols are on the same level they are evenly spaced out
 0011 (pointed leaf) 1111 1111 1111 1111 1111 (blue) 1010 (white outline) 1011 1011 1011 1011 1011 1011 1011 1011 (pattern 8 times) 1101 (radial out)
 0011 (pointed leaf) 1110  1110  1110  1110  1110 (green) 1010 (white outline) 1001 (offset) 1011 1011 1011 1011 1011 1011 1011 1011 (pattern 8 times)
 ```
+
+## Challenge
+![Challenge Rangoli](https://i.pinimg.com/736x/29/e1/8c/29e18cd2e98d930b0aff58eb2abce307.jpg)
