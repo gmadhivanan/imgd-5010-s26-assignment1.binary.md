@@ -38,9 +38,13 @@ After the symbol, the color is defined. This is done by moving clockwise along t
 ![Color Wheel](https://www.w3schools.com/colors/pic_rgb_wheel.gif)
 ### Outline
 If 10 is entered, the symbol is outlined in white. Color can be applied again to change the color of the outline from white to something else.
+## Offset
+The offset word can be used to rotate the level by a small amount
 ## Pattern
 Then enter the pattern word as many times as desired The symbols will be spaced equally apart starting at 90 deg/12 o'clock then moving clockwise. If no pattern is entered, a single instance of the symbol will be placed. 
 If multiple symbols are on the same level they are evenly spaced out
+## Radial Movement
+Radial out moves to a level with a larger radius
 
 
 ## Example 1
