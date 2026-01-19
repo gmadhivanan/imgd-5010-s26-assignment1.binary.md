@@ -48,4 +48,5 @@ If multiple symbols are on the same level they are evenly spaced out
 ```
 
 ## Challenge
+*for the purposes of this challenge assume that there is no outline used*
 ![Challenge Rangoli](https://i.pinimg.com/736x/29/e1/8c/29e18cd2e98d930b0aff58eb2abce307.jpg)
